@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Google Website**
 
-- 🌱 I’m currently learning **Angular , Python**
+- 🌱 I’m currently learning **Angular , Reactjs , Nextjs , Python**
 
 - 👯 I’m looking to collaborate on **Mean Stack**
 
