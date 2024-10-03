@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular , Reactjs , Nextjs , Python**
 
-- 👯 I’m looking to collaborate on **Mean Stack**
+- 👯 I’m looking to collaborate on **Mean Stack, Mern Stack, Django, Next.js  **
 
 - 🤝 I’m looking for help with **python**
 
